@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 2d822590dc2332f44ad9d65a98539699
+  m_SerializeEntries:
+  - m_GUID: 98dc6981c4a50b94f953cf497ff96153
+    m_Address: Assets/_Project/Prefabs/FrogPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animal
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5d85d6563d3cee4bad4c2d03b3a26d1
+    m_Address: Assets/_Project/Prefabs/SnakeView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animal
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 975bef55091144046badaf8271fc9a9f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c910d3002bab5464a87eca57f4ce4b55, type: 2}
+    - {fileID: 11400000, guid: 85faaa4a72033074e95fb4380bca0c88, type: 2}

@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetSettings
+  m_DefaultGroup: 2d822590dc2332f44ad9d65a98539699
+  m_currentHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_InternalIdNamingMode: 0
+  m_InternalBundleIdMode: 1
+  m_AssetLoadMode: 0
+  m_BundledAssetProviderType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_AssetBundleProviderType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_EnableJsonCatalog: 0
+  m_NonRecursiveBuilding: 1
+  m_AllowNestedBundleFolders: 0
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 3
+  m_UseUWRForLocalBundles: 0
+  m_BundleTimeout: 0
+  m_BundleRetryCount: 0
+  m_BundleRedirectLimit: -1
+  m_SharedBundleSettings: 0
+  m_SharedBundleSettingsCustomGroupIndex: 0
+  m_simulatedLoadDelay: 0.1
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_BuiltInBundleNaming: 0
+  mBuiltInBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_ContentStateBuildPathProfileVariableName: 
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 26ed2473bb65dad4f95d6b8a1133cff0, type: 2}
+  m_BuildSettings:
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: c7d65e0e8a292c24e9d611b7ffe470ac
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 338c53a5596bdf54b91b59eaee37d177
+        m_Value: 'ServerData/[BuildTarget]'
+      - m_Id: 3bcbca879251ba042be085ac830c7d1d
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 964876c09f6b8144b9acba39a4909270
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: a42b1bae1f486784eba6bf2b1f0b2912
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: fee786b7c53649a4284e4960079d8f63
+        m_Value: <undefined>
+    m_ProfileEntryNames:
+    - m_Id: 338c53a5596bdf54b91b59eaee37d177
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 3bcbca879251ba042be085ac830c7d1d
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 964876c09f6b8144b9acba39a4909270
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: a42b1bae1f486784eba6bf2b1f0b2912
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: fee786b7c53649a4284e4960079d8f63
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - Animal
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: fb4b797ddedd06d449c4496f902b848b, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 2
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 0c6469c3a773e9b49aa4742f471648c6, type: 2}
+  - {fileID: 11400000, guid: 9d35ba1d94c815741b2a69008859a581, type: 2}
+  - {fileID: 11400000, guid: 33a14a0a398430e4d96f1f9058f737ee, type: 2}
+  m_ActiveProfileId: c7d65e0e8a292c24e9d611b7ffe470ac

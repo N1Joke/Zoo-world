@@ -1,0 +1,3 @@
+Id,Speed,Damage,Hp,Type,Subtype,JumpInterval,JumpDistance,MovementType
+1,3.5,1,1,0,Frog,1.2,2.5,Jump
+2,2.5,1,1,1,Snake,0,0,Linear

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92217098762695b4f948f3b041387151, type: 3}
+  m_Name: AnimalViewCatalogSO
+  m_EditorClassIdentifier: Assembly-CSharp::ZooWorld.Infrastructure.Assets.AnimalViewCatalogSO
+  _entries:
+  - Id: 1
+    Prefab:
+      m_AssetGUID: 98dc6981c4a50b94f953cf497ff96153
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - Id: 2
+    Prefab:
+      m_AssetGUID: d5d85d6563d3cee4bad4c2d03b3a26d1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
